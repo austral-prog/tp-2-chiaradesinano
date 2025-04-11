@@ -12,9 +12,9 @@ def change():
     print( " ")      
     print("Vuelto")
     print(" ")
-    print("Pesos")
+    print("Pesos:")
     print(pesos)
-    print("Centavos")
+    print("Centavos:")
     print(cents)
  
    
