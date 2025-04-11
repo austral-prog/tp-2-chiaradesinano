@@ -7,11 +7,14 @@ def change():
     cents= int(cents1*100)
     print("Ingresar gasto:") 
     print(expense)
-    print("Dinero recibido:")
-    print(money)      
+    print("Dinero recibido")
+    print(money)
+    print( " ")      
     print("Vuelto")
-    print("Pesos:")
+    print(" ")
+    print("Pesos")
     print(pesos)
-    print("Centavos:")
+    print("Centavos")
     print(cents)
+ 
    
